@@ -61,3 +61,6 @@
 - [记一次SSRF攻击内网的校园实战案例](https://mp.weixin.qq.com/s/8D6kmI2i7vOncN2Swrbe8g)
 - [对某大学管理信息系统的一次渗透测试](https://mp.weixin.qq.com/s/yvtQrXQkA56CQS9_D-XXZw)
 - [记一次有趣的溯源](https://mp.weixin.qq.com/s/gWIsw3rhUgv9r9pFdKByjQ)
+- [浅谈在数据包被加密和签名保护时的渗透方式](https://mp.weixin.qq.com/s/JIrTSIxETHTkFJO3yzk6hg)
+- [记一次HW溯源过程](https://mp.weixin.qq.com/s/rC6ZY9H3NTGyz9ThepZnIw)
+- [实战|msf对小米11进行安全渗透](https://mp.weixin.qq.com/s/j4V7sGDsrkvCGgOjcra6FQ)
